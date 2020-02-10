@@ -68,13 +68,13 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 - [x] Diseñar la aplicación pensando y entendiendo al usuario.
 - [x] Crear prototipos para obtener feedback e iterar.
-- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 
 ### HTML y CSS
 
 - [x] Uso correcto de HTML semántico.
-- [ ] Uso de selectores de CSS.
-- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [x] Uso de selectores de CSS.
+- [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
 
@@ -94,8 +94,8 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 - [ ] Testeo de tus funciones.
 
 ### Git y GitHub
-- [ ] Comandos de git (add | commit | pull | status | push).
-- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [x] Comandos de git (add | commit | pull | status | push).
+- [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
 - [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
