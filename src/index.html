@@ -7,51 +7,54 @@
   </head>
   <body>
 
-    <header id=>
+    <header id="inicio">
       <h1>
-      <img src="http://www.adigma.com.mx/imag/adigma_fondo_anaranjado_4KB.jpg">
+      <img  src="http://www.adigma.com.mx/imag/adigma_fondo_anaranjado_4KB.jpg">
     </h1>
     </header>
+    <br>
+    <br>
     <article id="root">
 
-          <section>
-      <h2> Hola Adigmatic@</h2>
-        <p>
-          Esta es la app de Adigma,
+          <section id="bienvenida">
+
+<section id="instru">
+      <h2> Bienvenido</h2>
+              <p >
+          Esta app de Adigma,
         te ayudara a decifrar mensajes para los rallys <br>
          asi como a crear mensajes secretos que puedas compartir<br>
          con otros adigmaticos
                </p>
-<img src="http://www.adigma.com.mx/eventos/adigmacity/26nov2017micro.jpg">
+             </section>
 <br>
-  <button>¡Comencemos!!</button>
+<br>
+  <button id="comienzo" >¡Comencemos!!</button>
 <br>
 </section>
-<section>
+
+
+<section id="datos">
 
     <h3>  Escribe el numero secreto </h3>
-          <input type="number">
+          <input type="number" id="offset">
           <h3> Escribe el mensaje </h3>
-          <textarea name="msj"rows="10"
-          cols="45"> Aqui va tu mensjae </textarea>
+          <textarea id ="palabra" rows="10"  cols="45">
+           Aqui va tu mensaje </textarea>
           <br>
 
-            <button> Crea un <br> mensaje </button>
-              <button> Descifra el <br> mensaje </button>
+            <button id="codi" > Crea un <br> mensaje </button>
+              <button id="decodi"> Descifra el <br> mensaje </button>
 
-              <hr>
-            </section>
 
-            <section>
+                        </section>
+
+            <section id="final">
               <h3> Aqui tienes tu mensaje listo </h3>
 
-                  <br>
+<p id="txtfinal"> </p>
 
-                <button>copiar</button>
-                <br>
-                <br>
-
-                    <button>ir a inicio</button>
+                    <button id="regreso">ir a inicio</button>
                   </section>
 
 
@@ -60,4 +63,3 @@
     <script src="index.js" type="module"></script>
   </body>
 </html>
-
