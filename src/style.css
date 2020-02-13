@@ -8,8 +8,12 @@
    background-color: #76beda;
   text-align: center;
    border: PowderBlue 5px solid;
-   border-radius: 20px;
- }
+   border-radius: 50px;
+     padding: 10px 2px;
+     }
+     #datos {
+       display: none;
+     }
 
 
 #comienzo{
@@ -21,6 +25,49 @@
     font-size: 20px;
     color: #000000;
     background-color: #76beda;
-    border-radius: 6px;
-  border: 2px solid #FF6600;
+    border-radius: 10px;
+border: PowderBlue 5px solid;
+}
+
+#datos {
+  text-align: center;
+}
+
+#final {
+  text-align: center;
+}
+#codi {
+  padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    background-color: #76beda;
+    border-radius: 10px;
+  border: PowderBlue 5px solid;
+}
+
+#decodi{
+  padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    background-color: #76beda;
+    border-radius: 10px;
+  border: PowderBlue 5px solid;
+}
+
+#regreso
+{
+
+  padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    background-color: #76beda;
+    border-radius: 10px;
+  border: PowderBlue 5px solid;
+}
+
+#final{
+  display: none;
 }
