@@ -11,9 +11,6 @@
    border-radius: 50px;
      padding: 10px 2px;
      }
-     #datos {
-       display: none;
-     }
 
 
 #comienzo{
@@ -68,6 +65,6 @@ border: PowderBlue 5px solid;
   border: PowderBlue 5px solid;
 }
 
-#final{
+#final, #datos{
   display: none;
-} 
+}
