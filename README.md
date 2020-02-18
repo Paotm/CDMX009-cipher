@@ -13,7 +13,6 @@
 ***
 
 ## 1. Preámbulo
-![hola](http://www.adigma.com.mx/imag/adigma_fondo_anaranjado_4KB.jpg)
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher)
 es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio
