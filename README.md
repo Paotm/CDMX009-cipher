@@ -30,7 +30,7 @@ y que ademas los campos de entrada podían ser los mismos y apoyarme de los
 botones para las funciones.
 
 ![proto1](src/pfinal1.png)
-![proto2](scr/pfinal2.png)
+![proto2](src/pfinal2.png)
 ![proto3](src/pfinal3.png)
 
 
@@ -135,7 +135,7 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 
 - [x] Comandos de git (add | commit | pull | status | push).
- [X]Manejo de repositorios de GitHub (clone | fork | gh-pages).
+ [X]   Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 
 ### Buenas prácticas de desarrollo
