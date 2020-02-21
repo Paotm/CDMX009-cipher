@@ -1,3 +1,5 @@
+body {  font-family: 'Gaegu', cursive;
+font-size:20px;}
 #inicio {
   background-color:   #FF6600;
   text-align: center;
@@ -10,11 +12,13 @@
    border: PowderBlue 5px solid;
    border-radius: 50px;
      padding: 10px 2px;
- }
+     }
 
 
 #comienzo{
-  display: block;
+
+  font-family: 'Gaegu', cursive;
+    display: block;
   margin-left: auto;
  margin-right: auto;
   padding: 10px;
@@ -31,9 +35,17 @@ border: PowderBlue 5px solid;
 }
 
 #final {
+  display: block;
+  margin-left: auto;
+ margin-right: auto;
   text-align: center;
 }
+#offset, #palabra{
+  font-family: 'Gaegu', cursive;
+
+}
 #codi {
+font-family: 'Gaegu', cursive;
   padding: 10px;
     font-weight: 500;
     font-size: 20px;
@@ -44,6 +56,7 @@ border: PowderBlue 5px solid;
 }
 
 #decodi{
+  font-family: 'Gaegu', cursive;
   padding: 10px;
     font-weight: 500;
     font-size: 20px;
@@ -55,7 +68,11 @@ border: PowderBlue 5px solid;
 
 #regreso
 {
-
+  display: block;
+  margin-left: auto;
+ margin-right: auto;
+  text-align: center;
+font-family: 'Gaegu', cursive;
   padding: 10px;
     font-weight: 500;
     font-size: 20px;
@@ -63,4 +80,8 @@ border: PowderBlue 5px solid;
     background-color: #76beda;
     border-radius: 10px;
   border: PowderBlue 5px solid;
+}
+
+#final, #datos{
+  display: none;
 }
