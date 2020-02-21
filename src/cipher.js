@@ -11,10 +11,19 @@ let outcome=""; //variable para dar el mensaje codificado
    let entradascii = palabra.charCodeAt(a); // obtiene el codigo ascii de los caracteres ingresados
 if (entradascii< 65 || entradascii >90)
 {
+<<<<<<< HEAD
  alert ("Ingresa solo Mayusculas")
  throw new TypeError;
 
 }else {
+=======
+  alert ("Ingresa solo Mayusculas")
+  throw new TypeError;
+
+
+}
+else {
+>>>>>>> 796daa1553d0f5026d4b7c3da17c1a2738588843
 
   entradascii=(entradascii- 65+parseInt(offset))%26+65; // formula que nos dan como pista para obtener la posicion del desplazamiento
   outcome += String.fromCharCode (entradascii);
@@ -30,12 +39,23 @@ function decode (offset, palabra) {
 let  entradascii = palabra.charCodeAt(a);
 if (entradascii< 65 || entradascii >90)
 {
+<<<<<<< HEAD
 alert ("Ingresa solo Mayusculas")
   throw new TypeError;
 }
 else {
 
   entradascii =(entradascii+65-parseInt(offset))%26+65;
+=======
+  alert ("Ingresa solo Mayusculas")
+  throw new TypeError;
+
+
+}
+else {
+
+   entradascii =(entradascii+65-parseInt(offset))%26+65;
+>>>>>>> 796daa1553d0f5026d4b7c3da17c1a2738588843
   outcome += String.fromCharCode (entradascii);
 }
 }

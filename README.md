@@ -92,7 +92,11 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 - [x] Diseñar la aplicación pensando y entendiendo al usuario.
 - [x] Crear prototipos para obtener feedback e iterar.
+<<<<<<< HEAD
 - [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+=======
+- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+>>>>>>> 796daa1553d0f5026d4b7c3da17c1a2738588843
 
 ### HTML y CSS
 
@@ -118,7 +122,11 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 - [x] Testeo de tus funciones.
 
 ### Git y GitHub
+<<<<<<< HEAD
 - [ ] Comandos de git (add | commit | pull | status | push).
+=======
+- [x] Comandos de git (add | commit | pull | status | push).
+>>>>>>> 796daa1553d0f5026d4b7c3da17c1a2738588843
 - [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
