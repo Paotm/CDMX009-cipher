@@ -5,8 +5,8 @@ Es una herramienta que te ayuda a codificar y decodificar mensajes por medio
 del cifrado cesar, el usuario puede elegir el numero de desplazamientos
 en los que se hará el cifrado.
 
-![final] ("pagina1.pgn")
-![Finalpag2]
+![Imagen Final](src/pagina1.png)
+![Imagen PAntalla 2](src/pagina2.png)
 
 Adigma es un juego de mesa en el que debes resolver objetivos para poder ganar.
 Ademas de los juegos de mesa también tiene como característica crear rallys
