@@ -1,5 +1,5 @@
 # Cifrado César
-#Codigo secreto
+##Codigo secreto
 
 Es una herramienta que te ayuda a codificar y decodificar mensajes por medio
 del cifrado cesar, el usuario puede elegir el numero de desplazamientos
@@ -7,6 +7,9 @@ en los que se hará el cifrado.
 
 ![Imagen Final](src/pagina1.png)
 ![Imagen PAntalla 2](src/pagina2.png)
+![imagen pantalla3](src/FINAL3.png)
+
+### Investigación UX
 
 Adigma es un juego de mesa en el que debes resolver objetivos para poder ganar.
 Ademas de los juegos de mesa también tiene como característica crear rallys
@@ -21,6 +24,15 @@ compartir entre otros usuarios y podrán descifrarlos siempre y cuando se les
 entregue el numero secreto.
 
 ![Primer Prototipo](src/proto.jpg)
+
+Después de el feedback, decidí que no eran necesarias tantas pantallas
+y que ademas los campos de entrada podían ser los mismos y apoyarme de los
+botones para las funciones.
+
+![proto1](src/pfinal1.png)
+![proto2](scr/pfinal2.png)
+![proto3](src/pfinal3.png)
+
 
 
 
@@ -92,11 +104,9 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 - [x] Diseñar la aplicación pensando y entendiendo al usuario.
 - [x] Crear prototipos para obtener feedback e iterar.
-<<<<<<< HEAD
 - [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
-=======
-- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
->>>>>>> 796daa1553d0f5026d4b7c3da17c1a2738588843
+
+
 
 ### HTML y CSS
 
@@ -122,12 +132,11 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 - [x] Testeo de tus funciones.
 
 ### Git y GitHub
-<<<<<<< HEAD
-- [ ] Comandos de git (add | commit | pull | status | push).
-=======
+
+
 - [x] Comandos de git (add | commit | pull | status | push).
->>>>>>> 796daa1553d0f5026d4b7c3da17c1a2738588843
-- [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+ [X]Manejo de repositorios de GitHub (clone | fork | gh-pages).
+
 
 ### Buenas prácticas de desarrollo
 - [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
