@@ -20,7 +20,7 @@ Como acción adicional podrán crear sus propios mensajes, los cuales podrán
 compartir entre otros usuarios y podrán descifrarlos siempre y cuando se les
 entregue el numero secreto.
 
-![]
+![Primer Prototipo](src/prototipo.png)
 
 
 
