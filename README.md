@@ -29,7 +29,7 @@ Después de el feedback, decidí que no eran necesarias tantas pantallas
 y que ademas los campos de entrada podían ser los mismos y apoyarme de los
 botones para las funciones.
 
-![proto1](src/pfinal1.png)
+![proto1](src/Cipher1.png)
 ![proto2](src/pfinal2.png)
 ![proto3](src/pfinal3.png)
 

@@ -5,7 +5,10 @@ font-size:20px;}
   text-align: center;
 }
 
-
+#bienvenida{
+  background-image: url("portada.jpg");
+  background-size: cover
+}
 #instru{
    background-color: #76beda;
   text-align: center;
