@@ -4,6 +4,7 @@ body {
 }
 
 #bienvenida {
+  color: whitesmoke;
   text-align: center;
   background-image: url("portada.jpg");
   width: 1275px;
@@ -14,24 +15,13 @@ body {
   margin-bottom: auto;
   background-size: cover;
 }
-
+.icone {
+  width: 60px;
+  height: 60px;
+}
 #datos {
   background-image: url("espacio.jpg");
   background-size: cover;
-}
-
-#comienzo {
-  font-family: "Gaegu", cursive;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 10px;
-  font-weight: 600;
-  font-size: 20px;
-  color: #faebeb;
-  background-color: #76beda;
-  border-radius: 10px;
-  border: PowderBlue 5px solid;
 }
 
 #datos {
@@ -113,7 +103,7 @@ body {
   color: white;
 }
 
-#comienzo {
+/* #comienzo {
   font-family: "Gaegu", cursive;
   display: block;
   margin-left: auto;
@@ -125,7 +115,7 @@ body {
   background-color: #76beda;
   border-radius: 10px;
   border: PowderBlue 5px solid;
-}
+} */
 
 #datos {
   text-align: center;
