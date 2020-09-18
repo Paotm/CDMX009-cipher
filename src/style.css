@@ -2,7 +2,7 @@ body {
   font-family: "Special Elite", cursive;
 }
 
-#bienvenida {
+#screenOne {
   display: flex;
   color: whitesmoke;
   background-image: url("portada.jpg");
@@ -14,10 +14,14 @@ body {
   flex-direction: column;
 }
 .icone {
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
 }
-
+#offset {
+  width: 90px;
+  height: 45px;
+  font-size: 18pt;
+}
 #datos {
   background-image: url("espacio.jpg");
   background-size: cover;
@@ -37,12 +41,21 @@ body {
 }
 
 #final {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
   background-image: url("espacio.jpg");
   background-size: cover;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  text-align: center;
+  font-family: "Special Elite", cursive;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  color: #faebeb;
+  width: 1260px;
+  height: 632px;
+  text-align: center;
 }
 #offset,
 #palabra {
@@ -71,11 +84,11 @@ body {
 }
 
 #regreso {
+  font-family: "Special Elite", cursive;
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  font-family: "Gaegu", cursive;
   padding: 10px;
   font-weight: 500;
   font-size: 20px;
@@ -88,4 +101,10 @@ body {
 #final,
 #datos {
   display: none;
+}
+
+#palabra {
+  width: 700px;
+  height: 180px;
+  font-size: 18pt;
 }
